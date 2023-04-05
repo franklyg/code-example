@@ -1,4 +1,4 @@
-```
+```javascript
   function scrollTo(element, duration) {
     var e = document.documentElement;
     if(e.scrollTop===0){
